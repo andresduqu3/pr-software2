@@ -1,4 +1,4 @@
-# software2
+# SOFTWARE 2
 
 Versiones usadas:
 - Netbeans 12.6
